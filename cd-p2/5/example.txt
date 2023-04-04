@@ -1,0 +1,4 @@
+Name : 1
+Age : 2
+School : 3
+ABCDEFGHIJKLMNOPQRSTUVWXYZ

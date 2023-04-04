@@ -1,0 +1,8 @@
+f=open("example.txt","w")
+name=input("Name:")
+age=input("Age:")
+sch=input("School :")
+f.write("Name : %s\n" %name)
+f.write("Age : %s\n" %age)
+f.write("School : %s\n" %sch)
+f.close()
